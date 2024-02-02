@@ -105,9 +105,12 @@ const Header = () => {
                   登录
               </a>
             </Link>
-            <Link href="https://vpn.gogogm.com/auth/register">
-              <ButtonOutline>注册</ButtonOutline>
-                </Link>
+          <Link href="https://vpn.gogogm.com/auth/register">
+              {/* 确保ButtonOutline可以接收children或者正确使用 */}
+                <a className="mx-2 sm:mx-4 capitalize tracking-wide hover:text-orange-500 transition-all">
+                <ButtonOutline>注册</ButtonOutline>
+              </a>
+          </Link>
           </div>
         </nav>
       </header>
