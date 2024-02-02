@@ -1,7 +1,7 @@
-<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg width="149" height="37" viewBox="0 0 149 37" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .base { fill: orange; font-family: Arial; font-size: 14px; }
+    .text { font: bold 16px sans-serif; fill: orange; }
   </style>
-  <rect width="100%" height="100%" fill="black" />
-  <text x="50%" y="50%" class="base" dominant-baseline="middle" text-anchor="middle">GoGoGM VPN</text>
+  <rect width="149" height="37" fill="#000"/>
+  <text x="50%" y="50%" class="text" dominant-baseline="middle" text-anchor="middle">GoGoGM VPN</text>
 </svg>
