@@ -102,10 +102,12 @@ const Header = () => {
           <div className="col-start-10 col-end-12 font-medium flex justify-end items-center">
             <Link href="https://vpn.gogogm.com">
               <a className="text-black-600 mx-2 sm:mx-4 capitalize tracking-wide hover:text-orange-500 transition-all">
-                  Sign In
+                  登录
               </a>
             </Link>
-            <ButtonOutline>Sign Up</ButtonOutline>
+            <Link href="https://vpn.gogogm.com/auth/register">
+              <ButtonOutline>注册</ButtonOutline>
+          <Link>
           </div>
         </nav>
       </header>
