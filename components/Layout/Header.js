@@ -107,7 +107,7 @@ const Header = () => {
             </Link>
             <Link href="https://vpn.gogogm.com/auth/register">
               <ButtonOutline>注册</ButtonOutline>
-          <Link>
+                </Link>
           </div>
         </nav>
       </header>
