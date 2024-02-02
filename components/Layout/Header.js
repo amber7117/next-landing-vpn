@@ -132,13 +132,7 @@ const Header = () => {
                   : " border-transparent")
               }
             >
-             <svg width="149" height="37" viewBox="0 0 149 37" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .text { font: bold 16px sans-serif; fill: orange; }
-  </style>
-  <rect width="149" height="37" fill="#000"/>
-  <text x="50%" y="50%" class="text" dominant-baseline="middle" text-anchor="middle">GoGoGM VPN</text>
-</svg>
+
               关于我们
             </LinkScroll>
             <LinkScroll
